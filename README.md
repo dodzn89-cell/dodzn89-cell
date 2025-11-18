@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://raw.githubusercontent.com/dodzn89-cell/dodzn89-cell/127db84662621c7c148c75fd00b39ce6f0ec16a8/%EB%B2%A0%EB%84%88.png ?raw=true=240&text=WELCOME!!&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://github.com/dodzn89-cell/dodzn89-cell/blob/main/%EB%B2%A0%EB%84%88.png?raw=true=240&text=WELCOME!!&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ## 👋 Hi there! I'm JSW Welcome to my GitHub profile! </h2>  
